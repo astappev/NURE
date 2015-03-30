@@ -1,0 +1,113 @@
+body {
+	background-color:#9cc07a;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 10px 10px;
+	padding: 0px;
+}
+.clear{clear:both;}
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#sayt {
+	margin: 0px auto;
+	text-align: left;
+	width: 717px;
+}
+a{
+	font-size:12px;
+}
+p{
+	margin: 15px 0px;
+}
+
+#shapka {
+	margin: 0px 0px 0px 0px;
+	background-image:url(images/fon.jpg);
+	width:717px;
+	height:288px;
+	position:relative;
+}
+#shapka ul{
+	background-color:#85a157;
+	width:711px;
+	border: 3px solid #FFFFFF;
+	display:block;
+	top:255px;
+	position:absolute;
+	margin: 0px 0px 0px 0px;
+	height:22px;
+	padding:5px 0px 0px 0px;
+	text-align:center;
+}
+#shapka li{
+	display:inline;	
+}
+#shapka ul a{
+	text-decoration:none;
+	color:#FFFFFF;
+	margin: 0px 15px;
+}
+#shapka ul a:hover{
+	text-decoration:underline;
+	color:#28556b;
+}
+#logo_1,#logo_2 {
+	font-size: 24px;
+	font-style:italic;
+	color:#FFFFFF;
+	position:absolute;
+}
+#logo_1{
+	top:15px;
+	left:100px;
+}
+#logo_2{
+	top:44px;
+	left:124px;
+}
+#content {
+	background-image:url(images/content_bg.gif);
+	width:717px;
+}
+img{
+	border-width:0px;
+}
+h1{
+	color:#000000;
+	font-size:14px;
+	margin: 20px 0px 20px 0px;
+}
+
+h2{
+	color:#85a157;
+	font-size:14px;
+	text-align:center;
+	width:200px;
+	margin: 10px 0px 15px 0px;
+}
+#left {
+	float:left;
+	width:650px;
+	margin-left:27px;
+	padding: 0px 10px 30px 0px;
+	display:inline;
+}
+#left a{color:#28556b;}
+#left a:hover{color:#c77e0c;}
+#photos a{
+	margin-right:14px;
+}
+#dno_linia {
+clear:both;
+background-image:url(images/dno_bg.gif);
+font-size:1px;
+height:10px;
+}
+#dno {
+	width:717px;
+	text-align:center;
+	padding: 20px 0px;
+}

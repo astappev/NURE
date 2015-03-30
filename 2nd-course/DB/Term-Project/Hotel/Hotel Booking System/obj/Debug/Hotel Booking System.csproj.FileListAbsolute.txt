@@ -1,0 +1,29 @@
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\Hotel Booking System.exe.config
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\Hotel Booking System.exe
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\Hotel Booking System.pdb
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\BCrypt.Net.dll
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\BCrypt.Net.pdb
+D:\GDrive\VSProject\Hotel\Hotel Booking System\bin\Debug\BCrypt.Net.xml
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.AboutBox.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddAccounts.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Edit.EditClients.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Login.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.MainForm.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Properties.Resources.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.ViewAccounts.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel Booking System.csproj.GenerateResource.Cache
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel Booking System.exe
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel Booking System.pdb
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel Booking System.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Edit.EditPaidInfo.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.TemplateAccounts.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddClient.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddReservations.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddResidentBron.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddResident.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddManager.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.Add.AddRoom.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.ViewReservations.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.ViewClients.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.ViewManagers.resources
+D:\GDrive\VSProject\Hotel\Hotel Booking System\obj\Debug\Hotel_Booking_System.View.ViewRooms.resources

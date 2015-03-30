@@ -1,0 +1,21 @@
+﻿Build started 04.06.2014 0:03:11.
+     1>Project "D:\GDrive\VSProject\WinAPI_5\WinAPI_1\WinAPI_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\WinAPI_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WinAPI_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WinAPI_1.cpp
+         WinAPI_1.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\IDR_MENU.res" IDR_MENU.rc 
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\WinAPI_1.res" WinAPI_1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GDrive\VSProject\WinAPI_5\Debug\WinAPI_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GDrive\VSProject\WinAPI_5\Debug\WinAPI_1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GDrive\VSProject\WinAPI_5\Debug\WinAPI_1.lib" /MACHINE:X86 Debug\IDR_MENU.res
+         Debug\WinAPI_1.res
+         Debug\stdafx.obj
+         Debug\WinAPI_1.obj
+         WinAPI_1.vcxproj -> D:\GDrive\VSProject\WinAPI_5\Debug\WinAPI_1.exe
+     1>Done Building Project "D:\GDrive\VSProject\WinAPI_5\WinAPI_1\WinAPI_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.76

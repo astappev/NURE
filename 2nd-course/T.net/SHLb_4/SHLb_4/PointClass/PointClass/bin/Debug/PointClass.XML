@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PointClass</name>
+    </assembly>
+    <members>
+        <member name="T:PointSpace.PointClass">
+            <summary> 
+            Класс для работы с координатами точки
+            </summary>
+        </member>
+        <member name="M:PointSpace.PointClass.#ctor">
+            <summary>
+            Конструктор по умолчанию
+            </summary>
+        </member>
+        <member name="M:PointSpace.PointClass.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор с параметрами
+            </summary>
+            <param name="x">Координаты по X.</param>
+            <param name="y">Координаты по Y.</param>
+        </member>
+        <member name="M:PointSpace.PointClass.PrintCord">
+            <summary>
+            Вывести координаты точки на экран
+            </summary>
+            <returns>Строка с текущими координатами.</returns> 
+        </member>
+        <member name="M:PointSpace.PointClass.CalcDistance">
+            <summary>
+            Рассчитать расстояние от начала координат до точки
+            </summary>
+            <returns>Рузультаты вычисления растояния от точки до начала коодинат.</returns> 
+        </member>
+        <member name="M:PointSpace.PointClass.MovePoint(System.Int32,System.Int32)">
+            <summary>
+            Переместить точку на плоскости на вектор (a, b)
+            </summary>
+            <param name="x">Параметр a, вектора (a, b).</param>
+            <param name="y">Параметр b, вектора (a, b).</param>
+        </member>
+        <member name="P:PointSpace.PointClass.x">
+            <summary>
+            Установить т. X
+            </summary>
+        </member>
+        <member name="P:PointSpace.PointClass.y">
+            <summary>
+            Установить т. Y
+            </summary>
+        </member>
+        <member name="P:PointSpace.PointClass.MultiplyX">
+            <summary>
+            Умножить координаты т. X на скаляр
+            </summary>
+            <value>Возвращает текущее значение точки, по оси X. Записывает в точку ее значение умноженое на скаляр.</value>
+        </member>
+        <member name="P:PointSpace.PointClass.MultiplyY">
+            <summary>
+            Умножить координаты т. Y на скаляр
+            </summary>
+            <value>Возвращает текущее значение точки, по оси Y. Записывает в точку ее значение умноженое на скаляр.</value>
+        </member>
+    </members>
+</doc>

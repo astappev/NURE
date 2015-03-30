@@ -1,0 +1,5 @@
+D:\GDrive\VSProject\PointClass\PointClass\bin\Debug\PointClass.dll
+D:\GDrive\VSProject\PointClass\PointClass\bin\Debug\PointClass.pdb
+D:\GDrive\VSProject\PointClass\PointClass\obj\Debug\PointClass.dll
+D:\GDrive\VSProject\PointClass\PointClass\obj\Debug\PointClass.pdb
+D:\GDrive\VSProject\PointClass\PointClass\bin\Debug\PointClass.XML

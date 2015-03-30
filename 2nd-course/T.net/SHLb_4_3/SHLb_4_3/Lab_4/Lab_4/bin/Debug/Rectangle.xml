@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rectangle</name>
+    </assembly>
+    <members>
+        <member name="T:MyClass.Rectangle">
+            <summary> 
+            Класс для работы с прямоугольником
+            </summary>
+        </member>
+        <member name="M:MyClass.Rectangle.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор с заданными длинами сторон. 
+            </summary>
+            <param name="width">Ширина прямоугольника.</param>
+            <param name="height">Высота прямоугольника.</param>
+        </member>
+        <member name="M:MyClass.Rectangle.PrintLength">
+            <summary>
+            Вывод длины сторон прямоугольника
+            </summary>
+            <returns>Строка с длинами сторон прямоугольника.</returns> 
+        </member>
+        <member name="M:MyClass.Rectangle.CalcPerimeter">
+            <summary>
+            Расчёт периметра прямоугольника
+            </summary>
+            <returns>Периметр прямоугольника.</returns> 
+        </member>
+        <member name="M:MyClass.Rectangle.CalcArea">
+            <summary>
+            Расчёт площади прямоугольника
+            </summary>
+            <returns>Площадь прямоугольника.</returns> 
+        </member>
+        <member name="P:MyClass.Rectangle.Width">
+            <summary>
+            Установить ширину
+            </summary>
+            <value>Ширина.</value>
+        </member>
+        <member name="P:MyClass.Rectangle.Height">
+            <summary>
+            Установить высоту
+            </summary>
+            <value>Высота.</value>
+            
+        </member>
+        <member name="P:MyClass.Rectangle.isSquare">
+            <summary>
+            Проверка является ли данный прямоугольник квадратом
+            </summary>
+            <returns>В случае если прямоугольник квадратный возвращает true.</returns> 
+        </member>
+    </members>
+</doc>

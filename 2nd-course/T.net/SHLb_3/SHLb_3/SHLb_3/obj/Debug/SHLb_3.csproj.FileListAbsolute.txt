@@ -1,0 +1,9 @@
+D:\GDrive\VSProject\SHLb_3\SHLb_3\bin\Debug\SHLb_3.exe.config
+D:\GDrive\VSProject\SHLb_3\SHLb_3\bin\Debug\SHLb_3.exe
+D:\GDrive\VSProject\SHLb_3\SHLb_3\bin\Debug\SHLb_3.pdb
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.Properties.Resources.resources
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.csproj.GenerateResource.Cache
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.exe
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.pdb
+D:\GDrive\VSProject\SHLb_3\SHLb_3\obj\Debug\SHLb_3.ImageEditor.resources

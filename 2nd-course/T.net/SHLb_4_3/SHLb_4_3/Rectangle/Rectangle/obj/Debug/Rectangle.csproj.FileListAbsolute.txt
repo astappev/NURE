@@ -1,0 +1,6 @@
+D:\GDrive\VSProject\Rectangle\Rectangle\bin\Debug\Rectangle.dll
+D:\GDrive\VSProject\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\GDrive\VSProject\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\Rectangle\Rectangle\obj\Debug\Rectangle.dll
+D:\GDrive\VSProject\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+D:\GDrive\VSProject\Rectangle\Rectangle\bin\Debug\Rectangle.XML

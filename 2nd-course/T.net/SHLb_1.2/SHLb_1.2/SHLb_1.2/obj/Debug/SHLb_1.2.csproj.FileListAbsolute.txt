@@ -1,0 +1,9 @@
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\bin\Debug\SHLb_1.2.exe.config
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\bin\Debug\SHLb_1.2.exe
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\bin\Debug\SHLb_1.2.pdb
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1.2.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1._2.Form1.resources
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1._2.Properties.Resources.resources
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1.2.csproj.GenerateResource.Cache
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1.2.exe
+D:\GDrive\VSProject\SHLb_1.2\SHLb_1.2\obj\Debug\SHLb_1.2.pdb

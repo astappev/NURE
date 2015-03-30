@@ -1,0 +1,6 @@
+D:\GDrive\VSProject\SHLb_1\SHLb_1\bin\Debug\SHLb_1.exe.config
+D:\GDrive\VSProject\SHLb_1\SHLb_1\bin\Debug\SHLb_1.exe
+D:\GDrive\VSProject\SHLb_1\SHLb_1\bin\Debug\SHLb_1.pdb
+D:\GDrive\VSProject\SHLb_1\SHLb_1\obj\Debug\SHLb_1.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\SHLb_1\SHLb_1\obj\Debug\SHLb_1.exe
+D:\GDrive\VSProject\SHLb_1\SHLb_1\obj\Debug\SHLb_1.pdb

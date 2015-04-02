@@ -20,3 +20,11 @@ see more http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-ma
 Параметры виртуальной машины выставлены под себя. Рекомендую изменить количесвто ОЗУ и видеопамяти. Диск виртульной машини весит ~8 гб, но может разростись до максимального 15 гб (следите что бы ему было свободное место на диске).
 
 VirtalBox 4.12-93733
+
+
+## Скрины
+![](HadoopUbuntu.png)
+![](HadoopUbuntu1.png)
+![](HadoopUbuntu2.png)
+![](HadoopUbuntu3.png)
+![](HadoopUbuntu4.png)

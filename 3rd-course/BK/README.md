@@ -3,6 +3,7 @@
 ## Tech
 * Java - program language
 * PostgreSQL - DB server
+
 [see code (Git repository)](https://github.com/astappev/Storehouse)
 
 ## Models
